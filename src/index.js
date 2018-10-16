@@ -90,7 +90,8 @@ function renderSingleToy(toy){
 
 
 function addToyButtonListener(){
-  addBtn.addEventListener('click', hideSeek)}
+  addBtn.addEventListener('click', hideSeek)
+}
     // hide & seek with the form
 
 function hideSeek(){
