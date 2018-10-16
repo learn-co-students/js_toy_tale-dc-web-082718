@@ -47,6 +47,48 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "iRobot",
+      "image": "irobot.com",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "racecar",
+      "image": "racecar.com",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "xbox",
+      "image": "xbox.com",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "ps3",
+      "image": "ps3.com",
+      "likes": "0",
+      "id": 12
+    },
+    {
+      "name": "barbie",
+      "image": "barbie.com",
+      "likes": "0",
+      "id": 13
+    },
+    {
+      "name": "bunny",
+      "image": "bunny.com",
+      "likes": "0",
+      "id": 14
+    },
+    {
+      "name": "dyno",
+      "image": "dyno.com",
+      "likes": "0",
+      "id": 15
     }
   ]
 }
