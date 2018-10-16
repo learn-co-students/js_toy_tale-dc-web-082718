@@ -47,6 +47,36 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Mr.Poopy",
+      "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/3/37/Mr_poopy_butthole.png/revision/latest?cb=20150819161234",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Mr.Poopy",
+      "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/3/37/Mr_poopy_butthole.png/revision/latest?cb=20150819161234",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Mr.Poopy",
+      "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/3/37/Mr_poopy_butthole.png/revision/latest?cb=20150819161234",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Mr.Poopy",
+      "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/3/37/Mr_poopy_butthole.png/revision/latest?cb=20150819161234",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Mr.Poopy",
+      "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/3/37/Mr_poopy_butthole.png/revision/latest?cb=20150819161234",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
